@@ -1,2 +1,2 @@
-# Prims-s-Algorithim
+# Primss-Algorithim
 Prims's Algorithim Using C# Console Application
