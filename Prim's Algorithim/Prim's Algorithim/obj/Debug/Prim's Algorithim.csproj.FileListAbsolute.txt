@@ -1,0 +1,11 @@
+C:\Users\youss\OneDrive\Desktop\Prim's Algorithim\Prim's Algorithim\bin\Debug\Prim's Algorithim.exe.config
+C:\Users\youss\OneDrive\Desktop\Prim's Algorithim\Prim's Algorithim\bin\Debug\Prim's Algorithim.exe
+C:\Users\youss\OneDrive\Desktop\Prim's Algorithim\Prim's Algorithim\bin\Debug\Prim's Algorithim.pdb
+C:\Users\youss\OneDrive\Desktop\Prim's Algorithim\Prim's Algorithim\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\youss\OneDrive\Desktop\Prim's Algorithim\Prim's Algorithim\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\youss\OneDrive\Desktop\Prim's Algorithim\Prim's Algorithim\obj\Debug\Prim's Algorithim.csproj.AssemblyReference.cache
+C:\Users\youss\OneDrive\Desktop\Prim's Algorithim\Prim's Algorithim\obj\Debug\Prim's Algorithim.csproj.SuggestedBindingRedirects.cache
+C:\Users\youss\OneDrive\Desktop\Prim's Algorithim\Prim's Algorithim\obj\Debug\Prim's Algorithim.csproj.CoreCompileInputs.cache
+C:\Users\youss\OneDrive\Desktop\Prim's Algorithim\Prim's Algorithim\obj\Debug\Prim's Algorithim.csproj.CopyComplete
+C:\Users\youss\OneDrive\Desktop\Prim's Algorithim\Prim's Algorithim\obj\Debug\Prim's Algorithim.exe
+C:\Users\youss\OneDrive\Desktop\Prim's Algorithim\Prim's Algorithim\obj\Debug\Prim's Algorithim.pdb
